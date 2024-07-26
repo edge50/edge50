@@ -9,7 +9,11 @@
   - [Applying Filters to SQL queries](https://github.com/edge50/Foundation-of-cybersecurity-project/blob/main/SQL%20project%20(1).pdf)
   - [Security Audit for Botium toys](https://github.com/edge50/Foundation-of-cybersecurity-project/blob/main/Security%20Audit%20Project.docx)
 - <b>Intern at Techno Trench in Cybersecurity/Ethical Hacking</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Password Strength Checker]
+  - [Network Traffic Monitor]
+  - [Vulnerability Scanner]
+  - [Phishing Simulator]
+  - [Incident Response Simulator]
 
 
  <h3>Personal Projects</h3>
