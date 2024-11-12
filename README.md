@@ -17,7 +17,7 @@
  <h3>Linkedin Articles</h3>
  <h3>Certifications</h3>
 - <b>Google Cybersecurity Certification</b>
-  -<b><a href="https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45">Play It Safe</a></b>
+  -<p><a href="https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45">Play It Safe</a></p>
 
 <h2>📺 Popular Linkedin Articles</h2>
 
