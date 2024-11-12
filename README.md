@@ -17,12 +17,12 @@
  <h3>Linkedin Articles</h3>
  <h3>Certifications</h3>
 - <b>Google Cybersecurity Certification</b>
-  -<p><a href="https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45">Play It Safe:Manage Security Risks</a></p>
-  -<p><a href="https://coursera.org/share/a1d740b048970650f6dfb97cb3a77bf0">Connect and Protect:Network and Network Security Risks</a></p>
-  -<p><a href="https://coursera.org/share/c11de8df05e36ceca878ea7eb6d0a6d7">Assets, Threats and Vulnerabilities</a></p>
-  -<p><a href="https://coursera.org/share/6b503df33d1f0643bbfe4d73046eaa0e">Sound The Alarm:Detection and Response</a></p>
-  -<p><a href="https://coursera.org/share/6254265bb4a70823b8d544d963374d61">Tools of The Trade:Linux and SQL</a></p>
-  -<p><a href="https://coursera.org/share/2809f3457774e8a9cbf77ae06c39346a">Automate Cybersecurity Task With Python</a></p>
+  <p><a href="https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45">Play It Safe:Manage Security Risks</a></p>
+  <p><a href="https://coursera.org/share/a1d740b048970650f6dfb97cb3a77bf0">Connect and Protect:Network and Network Security Risks</a></p>
+  <p><a href="https://coursera.org/share/c11de8df05e36ceca878ea7eb6d0a6d7">Assets, Threats and Vulnerabilities</a></p>
+  <p><a href="https://coursera.org/share/6b503df33d1f0643bbfe4d73046eaa0e">Sound The Alarm:Detection and Response</a></p>
+  <p><a href="https://coursera.org/share/6254265bb4a70823b8d544d963374d61">Tools of The Trade:Linux and SQL</a></p>
+  <p><a href="https://coursera.org/share/2809f3457774e8a9cbf77ae06c39346a">Automate Cybersecurity Task With Python</a></p>
 
 
 
