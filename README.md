@@ -8,12 +8,9 @@
   - [Network Hardening report](https://github.com/edge50/Foundation-of-cybersecurity-project/blob/main/Network%20hardening.docx)
   - [Applying Filters to SQL queries](https://github.com/edge50/Foundation-of-cybersecurity-project/blob/main/SQL%20project%20(1).pdf)
   - [Security Audit for Botium toys](https://github.com/edge50/Foundation-of-cybersecurity-project/blob/main/Security%20Audit%20Project.docx)
-- <b>Intern at Techno Trench in Cybersecurity/Ethical Hacking</b>
-  - [Password Strength Checker]
-  - [Network Traffic Monitor]
-  - [Vulnerability Scanner]
-  - [Phishing Simulator]
-  - [Incident Response Simulator]
+- <b>Intern at ShadowFox in Cybersecurity/Ethical Hacking</b>
+  - [Beginner Level Project](https://github.com/edge50/ShadowFox/blob/8a350b9affe96e7bb1d3373bef25a88925c97f67/ShadowFox%20Internship%20Tasks.pdf)
+  - [Intermediate Level Project](https://github.com/edge50/ShadowFox/blob/8a350b9affe96e7bb1d3373bef25a88925c97f67/ShadowFox%20Internship%20Tasks.pdf)
 
 
  <h3>Personal Projects</h3>
