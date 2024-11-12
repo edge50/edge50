@@ -17,7 +17,7 @@
  <h3>Linkedin Articles</h3>
  <h3>Certifications</h3>
 - <b>Google Cybersecurity Certification</b>
-  - [Beginner Level Project](https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45)
+  -<b><a href="https://coursera.org/share/28fa55536f2c1d3f30d24a9ba5b28a45">Play It Safe</a></b>
 
 <h2>📺 Popular Linkedin Articles</h2>
 
